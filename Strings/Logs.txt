@@ -7,5 +7,4 @@ What's new?
 [*] A fucking Hub (i was held gunpoint to make one help)
 [*] One Button does everything for you now
 
-You may ask yourselves, "why the fuck is the loader called cum?", 
-well i am a fucking retard that's it.
+I renamed the Project to Lunar, because i wanted to
